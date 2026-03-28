@@ -10,4 +10,4 @@
 | [**Cheatsheets**](./Pivoting-Cheatsheets) | Comandos Rápidos: Pivoting, Active Directory, Escalação de Privilégios. | ![0%](https://img.shields.io/badge/COMPLETE-0%25-blue?style=for-the-badge) |
 | [**Labs**](./Lab-Reports) | Write-ups detalhado dos cenários práticos dos Labs apresentado nos modulos. | ![0%](https://img.shields.io/badge/PROGRESS-0%25-yellow?style=for-the-badge) |
 | [**CTFs**](./Lab-Reports) | Cenários de consolidação que simulam o ambiente real do exame. | ![0%](https://img.shields.io/badge/PROGRESS-0%25-red?style=for-the-badge) |
-| [**Scripts**](./Scripts) | Automações em Python e Bash para Pentest | ![0%](https://img.shields.io/badge/PROGRESS-0%25-orange?style=for-the-badge) |
+| [**Scripts**](./Scripts) | Automações em Python, Powershell e Bash para Pentest | ![0%](https://img.shields.io/badge/PROGRESS-0%25-orange?style=for-the-badge) |
