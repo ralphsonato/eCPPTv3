@@ -1,4 +1,4 @@
-# Módulo 3 - A Interface de Linha de Comando (CLI)
+# A Interface de Linha de Comando (CLI)
 
 ### Como acessar o PowerShell
 
