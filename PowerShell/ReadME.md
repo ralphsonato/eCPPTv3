@@ -1,4 +1,4 @@
-# PowerShell para Pentesters — Guia de Estudo
+# PowerShell para Pentesters - Guia de Estudo
 
 > Este material é um guia de estudo pessoal baseado em conceitos aplicado no curso eCPPT e com alguns complementos públicos sobre PowerShell
 > aplicado a testes de penetração.
