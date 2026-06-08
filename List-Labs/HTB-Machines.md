@@ -119,13 +119,13 @@
 
 | Domínio | Máquinas | Feitas | Pendentes |
 |---|---|---|---|
-| 🔴 Active Directory (30%) | 7 | 4 | 3 |
+| 🔴 Active Directory (30%) | 7 | 5 | 2 |
 | 🔴 Exploitation & Post-Exploit (25%) | 12 | 0 | 12 |
 | 🟠 Initial Access (15%) | 5 | 0 | 5 |
 | 🟠 Web Application (15%) | 7 | 0 | 7 |
 | 🟡 Exploit Development (5%) | 1 | 0 | 1 |
 | 🟢 Pivoting | 3 | 0 | 3 |
-| **Total** | **35** | **4** | **31** |
+| **Total** | **35** | **5** | **30** |
 
 ---
 
