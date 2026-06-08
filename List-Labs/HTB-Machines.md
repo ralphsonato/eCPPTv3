@@ -34,7 +34,7 @@
 |---|---|---|---|---|
 | 1 | **Forest** | Easy | AS-REP Roasting, BloodHound, DCSync | ✅ Feita |
 | 2 | **Active** | Easy | Kerberoasting, GPP Password, SMB Enum | ✅ Feita |
-| 3 | **Sauna** | Easy | AS-REP Roasting, DCSync, LDAP Enum | ⏳ Pendente |
+| 3 | **Sauna** | Easy | AS-REP Roasting, DCSync, LDAP Enum | ✅ Feita |
 | 4 | **Resolute** | Easy | LDAP Enum, Password Spray, DnsAdmins | ⏳ Pendente |
 | 5 | **Monteverde** | Easy | Password Spray, Azure AD Connect | ✅ Feita |
 | 6 | **Fuse** | Medium | Password Spray, SeLoadDriver, Printer Enum | ⏳ Pendente |
