@@ -36,7 +36,7 @@
 | 2 | **Active** | Easy | Kerberoasting, GPP Password, SMB Enum | ✅ Feita |
 | 3 | **Sauna** | Easy | AS-REP Roasting, DCSync, LDAP Enum | ✅ Feita |
 | 4 | **Resolute** | Medium | LDAP Enum, Password Spray, DnsAdmins | ⏳ Pendente |
-| 5 | **Monteverde** | Easy | Password Spray, Azure AD Connect | ✅ Feita |
+| 5 | **Monteverde** | Medium | Password Spray, Azure AD Connect | ✅ Feita |
 | 6 | **Fuse** | Medium | Password Spray, SeLoadDriver, Printer Enum | ⏳ Pendente |
 | 7 | **Cascade** | Medium | LDAP Enum, .NET Reversing, AD Recycle Bin | ✅ Feita |
 
