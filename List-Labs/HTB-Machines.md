@@ -35,7 +35,7 @@
 | 1 | **Forest** | Easy | AS-REP Roasting, BloodHound, DCSync | ✅ Feita |
 | 2 | **Active** | Easy | Kerberoasting, GPP Password, SMB Enum | ✅ Feita |
 | 3 | **Sauna** | Easy | AS-REP Roasting, DCSync, LDAP Enum | ✅ Feita |
-| 4 | **Resolute** | Medium | LDAP Enum, Password Spray, DnsAdmins | ⏳ Pendente |
+| 4 | **Resolute** | Medium | LDAP Enum, Password Spray, DnsAdmins | ✅ Feita |
 | 5 | **Monteverde** | Medium | Password Spray, Azure AD Connect | ✅ Feita |
 | 6 | **Fuse** | Medium | Password Spray, SeLoadDriver, Printer Enum | ⏳ Pendente |
 | 7 | **Cascade** | Medium | LDAP Enum, .NET Reversing, AD Recycle Bin | ✅ Feita |
@@ -119,13 +119,13 @@
 
 | Domínio | Máquinas | Feitas | Pendentes |
 |---|---|---|---|
-| 🔴 Active Directory (30%) | 7 | 5 | 2 |
+| 🔴 Active Directory (30%) | 7 | 6 | 1 |
 | 🔴 Exploitation & Post-Exploit (25%) | 12 | 0 | 12 |
 | 🟠 Initial Access (15%) | 5 | 0 | 5 |
 | 🟠 Web Application (15%) | 7 | 0 | 7 |
 | 🟡 Exploit Development (5%) | 1 | 0 | 1 |
 | 🟢 Pivoting | 3 | 0 | 3 |
-| **Total** | **35** | **5** | **30** |
+| **Total** | **35** | **6** | **30** |
 
 ---
 
