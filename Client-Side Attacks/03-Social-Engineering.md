@@ -58,7 +58,7 @@ O ataque de engenharia social mais usado. Funciona assim:
 
 A diferença pro phishing genérico: aqui tudo é personalizado.
 
-O atacante pesquisa o alvo a fundo — nome, cargo, projetos, relações, interesses — e monta uma mensagem sob medida. Referencia eventos recentes, usa nomes de colegas reais, simula contexto legítimo.
+O atacante pesquisa o alvo a fundo, nome, cargo, projetos, relações, interesses e monta uma mensagem sob medida. Referencia eventos recentes, usa nomes de colegas reais, simula contexto legítimo.
 
 O processo:
 
@@ -70,7 +70,7 @@ O processo:
 
 ## Pretexting
 
-Pretexting é criar um cenário falso convincente pra ganhar a confiança do alvo e extrair informações. Não é só mentir — é construir uma narrativa completa.
+Pretexting é criar um cenário falso convincente pra ganhar a confiança do alvo e extrair informações. Não é só mentir, é construir uma narrativa completa.
 
 ### Características
 
