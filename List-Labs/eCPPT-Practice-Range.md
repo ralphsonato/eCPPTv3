@@ -160,7 +160,7 @@
 
 | Domínio | Labs | Concluídos | Pendentes |
 |---|---|---|---|
-| 🔴 Active Directory (30%) | 17 | 2 | 17 |
+| 🔴 Active Directory (30%) | 17 | 2 | 15 |
 | 🔴 Exploitation & Post-Exploit (25%) | 15 | 0 | 15 |
 | 🟠 Initial Access (15%) | 9 | 1 | 8 |
 | 🟠 Web Application (15%) | 15 | 1 | 14 |
