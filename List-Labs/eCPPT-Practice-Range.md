@@ -1,8 +1,8 @@
 # INE Skill Dive - eCPPT Practice Range
 
 ![Total](https://img.shields.io/badge/Total-87_Labs-blue?style=for-the-badge)
-![Concluídos](https://img.shields.io/badge/Concluídos-1-green?style=for-the-badge)
-![Pendentes](https://img.shields.io/badge/Pendentes-86-yellow?style=for-the-badge)
+![Concluídos](https://img.shields.io/badge/Concluídos-4-green?style=for-the-badge)
+![Pendentes](https://img.shields.io/badge/Pendentes-82-yellow?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/Foco-eCPPTv3-orange?style=for-the-badge)
 
 ---
@@ -24,8 +24,8 @@
 
 | Lab | Nível | Status |
 |---|---|---|
-| Active Directory Enumeration - Q&A | Advanced | ⏳ Pendente |
-| AD - DCSync Attack | Advanced | ⏳ Pendente |
+| Active Directory Enumeration - Q&A | Advanced | ✅ Concluído |
+| AD - DCSync Attack | Advanced | ✅ Concluído |
 | AD - Pass the Hash with Machine Accounts | Advanced | ⏳ Pendente |
 | AD - Diamond Ticket | Advanced | ⏳ Pendente |
 | AD - Skeleton Key | Advanced | ⏳ Pendente |
@@ -76,7 +76,7 @@
 | Axis Login | Professional | ⏳ Pendente |
 | Telnet Login | Professional | ⏳ Pendente |
 | Vulnerable Email Server | Professional | ⏳ Pendente |
-| Vulnerable FTP Server III | Professional | ⏳ Pendente |
+| Vulnerable FTP Server III | Professional | ✅ Concluído |
 | Vulnerable Database Server II | Professional | ⏳ Pendente |
 | Vulnerable Database Server III | Professional | ⏳ Pendente |
 
@@ -160,13 +160,13 @@
 
 | Domínio | Labs | Concluídos | Pendentes |
 |---|---|---|---|
-| 🔴 Active Directory (30%) | 17 | 0 | 17 |
+| 🔴 Active Directory (30%) | 17 | 2 | 17 |
 | 🔴 Exploitation & Post-Exploit (25%) | 15 | 0 | 15 |
-| 🟠 Initial Access (15%) | 9 | 0 | 9 |
+| 🟠 Initial Access (15%) | 9 | 1 | 8 |
 | 🟠 Web Application (15%) | 15 | 1 | 14 |
 | 🟡 Recon (10%) | 23 | 0 | 23 |
 | 🟢 Cloud + Outros | 8 | 0 | 8 |
-| **Total** | **87** | **1** | **86** |
+| **Total** | **87** | **4** | **82** |
 
 
 ---
