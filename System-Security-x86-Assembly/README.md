@@ -3,7 +3,7 @@
 
 ## Sobre este curso
 
-Este é o módulo de **System Security**, o objetivo é construir a base de conhecimento sobre arquitetura de computadores, linguagem assembly e mecanismos de segurança que dá suporte a tópicos avançados como fuzzing, exploit development, buffer overflows, debugging, engenharia reversa e análise de malware (explorados em profundidade no curso de Exploit Development).
+Este é o módulo de **Exploit Development**, o objetivo é construir a base de conhecimento sobre arquitetura de computadores, linguagem assembly e mecanismos de segurança que dá suporte a tópicos avançados como fuzzing, exploit development, buffer overflows, debugging, engenharia reversa e análise de malware (explorados em profundidade no curso de Exploit Development).
 
 Assembly é a porta de entrada para entender técnicas de exploração, engenharia reversa e shellcoding. Sem um bom domínio de arquitetura de sistemas e assembly, não é possível dominar essas áreas de forma efetiva.
 
