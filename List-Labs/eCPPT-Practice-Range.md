@@ -35,7 +35,7 @@
 | Forest Wide Golden Ticket | Advanced | ⏳ Pendente |
 | AdminSDHolder Backdoor | Advanced | ⏳ Pendente |
 | GPO Abuse | Advanced | ⏳ Pendente |
-| Windows: Pass The Hash - SMBExec | Advanced | ⏳ Pendente |
+| Windows: Pass The Hash - SMBExec | Advanced | ✅ Concluído |
 | Token Manipulation | Advanced | ⏳ Pendente |
 | Token Manipulation with Metasploit | Advanced | ⏳ Pendente |
 | Discovery with ADRecon | Advanced | ⏳ Pendente |
@@ -160,13 +160,13 @@
 
 | Domínio | Labs | Concluídos | Pendentes |
 |---|---|---|---|
-| 🔴 Active Directory (30%) | 17 | 2 | 15 |
+| 🔴 Active Directory (30%) | 17 | 3 | 14 |
 | 🔴 Exploitation & Post-Exploit (25%) | 15 | 0 | 15 |
 | 🟠 Initial Access (15%) | 9 | 1 | 8 |
 | 🟠 Web Application (15%) | 15 | 1 | 14 |
 | 🟡 Recon (10%) | 23 | 0 | 23 |
 | 🟢 Cloud + Outros | 8 | 0 | 8 |
-| **Total** | **87** | **4** | **82** |
+| **Total** | **87** | **5** | **81** |
 
 
 ---
