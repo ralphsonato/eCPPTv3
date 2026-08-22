@@ -48,7 +48,7 @@
 
 | # | Máquina | OS | Dificuldade | Técnicas | Status |
 |---|---|---|---|---|---|
-| 8 | **Magic** | Linux | Easy | SQLi, File Upload Bypass, PATH Hijacking | ⏳ Pendente |
+| 8 | **Magic** | Linux | Medium | SQLi, File Upload Bypass, PATH Hijacking | ⏳ Pendente |
 | 9 | **OpenAdmin** | Linux | Easy | Known CVE, Port Forwarding, GTFOBins | ⏳ Pendente |
 | 10 | **Traverxec** | Linux | Easy | Known CVE RCE, SSH Key Cracking, GTFOBins | ⏳ Pendente |
 | 11 | **Traceback** | Linux | Easy | Webshell, SSH motd Abuse, Sudo PrivEsc | ⏳ Pendente |
