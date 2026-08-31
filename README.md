@@ -23,6 +23,6 @@ O objetivo é documentar todo o processo de estudo e preparação para ajudar qu
 > Certification ID: 192215632 | Date Awarded: August 23, 2026
 
 <div align="center">
-  <img src="./certificate.png" alt="eCPPT Certificate - Ralph Sonato" width="700">
+  <img src="./certificate.jpg" alt="eCPPT Certificate - Ralph Sonato" width="700">
 </div>
 
